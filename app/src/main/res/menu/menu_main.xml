@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/Bottombaritemone"
+        android:icon="@drawable/ic_accessibility_black_18dp"
+        android:title="People">
+        </item>
+
+    <item android:id="@+id/Bottombaritemtwo"
+        android:icon="@drawable/ic_credit_card_black_18dp"
+        android:title="Cards">
+    </item>
+
+    <item android:id="@+id/Bottombaritemthree"
+        android:icon="@drawable/ic_call_black_18dp"
+        android:title="Phone">
+    </item>
+
+    <item android:id="@+id/Bottombaritemfour"
+        android:icon="@drawable/ic_email_black_18dp"
+        android:title="Mails">
+    </item>
+
+    <item android:id="@+id/Bottombaritemfive"
+        android:icon="@drawable/ic_local_bar_black_18dp"
+        android:title="Favorites">
+    </item>
+</menu>
